@@ -1,1 +1,7 @@
 # CS255
+
+The DriverPass project is a project where the objective is to create opportunities for individuals to study for Driving tests through test taking and driving lessons. They wanted this system to be available to as many people as possible so that resulted in a web based application. 
+I feel like my strength in this type of topic is the nontechnical portions where I can convert technical concepts to a nontechnical audience. 
+I am not confident in my diagram making, that is the part that I would work on to revise. I put some of the lines backwards and also had decision modules where it shouldnt have been. 
+I interpretted the users need by putting myself in their shoes and asking what I would be looking for in a service. It is important to do so because the user is the one who is asking for the service to be done and if they do not like it they simply will not use it and the application therefore is worthless since it is not being used. 
+Designing software takes a lot of planning, sitting down and talking through requirements, making plans and diagrams, designating the workloads, making sure everything is to the customers standards. All that before the first line of code is written. But it is important since it adds structure to the project and makes the actual development a lot smoother in the long run. I would like to try to impliment Gantt Charts more into my work life since that seems the most applicable to the type of projects I work on. 
